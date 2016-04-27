@@ -9,4 +9,3 @@ TODO:
 - Implement sparse matrices (email Joost van Zwieten about this).
 - Split project in various .c and .h files and one main file.
 - Throw error when multiplying two vectors or matrices of different sizes.
-- 
